@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I’m looking for work
 
-- 📫 How to reach me **ibnusodik049@gmail.com**
+- 📫 Reach me on **ibnusodik049@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
