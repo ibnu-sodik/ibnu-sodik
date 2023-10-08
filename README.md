@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibnu-sodik" alt="ibnu-sodik" /></a> </p>
 
-- 🎓 I’m fresh graduate **1**
+- 🎓 I’m fresh graduate
 
-- 🧑‍💻 I’m looking for work **1**
+- 🧑‍💻 I’m looking for work
 
 - 📫 How to reach me **ibnusodik049@gmail.com**
 
